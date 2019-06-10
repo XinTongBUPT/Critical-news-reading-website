@@ -1,10 +1,7 @@
 
-# project 8
-
-**Team name: New News**
+# Critical news-reading website
 
 Team members: Andrew Thomas, Byungjin Jun, Xin Tong, Yunwen Yang
 
-Section #70
-
-update new!!
+# Demo URL
+https://critical-news-reading-website.firebaseapp.com/
